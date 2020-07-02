@@ -12,7 +12,7 @@ class Avatar extends Component{
     constructor(){
         super();
         this.state={
-            name:"Welcome to the Avatar World"
+            name:"Welcome to Avatar World"
         }
     }
 
